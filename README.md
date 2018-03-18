@@ -1,1 +1,1 @@
-# temp1
+# This repository contains `temp.c` which print `Hello World`
